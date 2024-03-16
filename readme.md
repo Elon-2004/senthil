@@ -1,3 +1,1 @@
-hi i am a
-clear
-;
+it is my first github command
